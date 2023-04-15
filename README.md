@@ -1,2 +1,2 @@
 # cubeempireserver
-Our Minecraft Server repository
+Our Minecraft Server full mods list

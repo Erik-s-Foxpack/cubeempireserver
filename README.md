@@ -1,2 +1,4 @@
-# cubeempireserver
-Our Minecraft Server repository
+# INFOЦЫГАНЕ
+Это репозиторий нашего сервера, и здесь когда-нибудь что-нибудь будет
+
+В ветке "mods" все моды с их описанием

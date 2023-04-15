@@ -3,7 +3,7 @@
 ## Список модов с ссылками и описанием
 <details>
 	<summary>Моды</summary>
-	AI–Improvements – улучшения ИИ[**AI–Improvements**](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) – улучшения ИИ
+[**AI–Improvements**](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) – улучшения ИИ
 
 [**Alex 's Mobs**](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) – расширение мобов в мире
 

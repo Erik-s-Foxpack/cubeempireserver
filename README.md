@@ -3,6 +3,7 @@
 ## Список модов с ссылками и описанием
 <details>
 	<summary>Моды</summary>
+	
 [**AI–Improvements**](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) – улучшения ИИ
 
 [**Alex 's Mobs**](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) – расширение мобов в мире
@@ -326,4 +327,5 @@
 [**Yung’s Bridges**](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges) – красивые мосты в мире
 
 [**Yung’s Extras**](https://www.curseforge.com/minecraft/mc-mods/yungs-extras) – различные постройки в мире
+
 </details>

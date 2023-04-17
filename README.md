@@ -18,6 +18,8 @@
 
 [**Architectury API**](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
 
+[**Armor Poser**](https://modrinth.com/mod/armor-poser) – стойка брони теперь супермодель, крутите её как хотите
+
 [**Artifacts**](https://www.curseforge.com/minecraft/mc-mods/artifacts) – итемы с баффами как на манер террарии
 
 [**Automobility**](https://www.curseforge.com/minecraft/mc-mods/automobility) – МАШИНЫ
@@ -27,6 +29,8 @@
 [**Bad Wither No Cookie Reloaded**](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) – глушит иссушителя и еще пару глобальных звуков чтобы они проигрывались только вблизи, а не по всей вселенной
 
 [**Balm**](https://www.curseforge.com/minecraft/mc-mods/balm)
+
+[**Ban Hammer**](https://www.curseforge.com/minecraft/mc-mods/ban-hammer) – название говорит само за себя, это оружие Админа которое есть только у Админа на случай если надо покарать кого-то (даже самого Админа)
 
 [**Better Combat**](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus) – обновленная система анимаций боя и самой боёвки
 
@@ -48,6 +52,10 @@
 
 [**Catalogue**](https://www.curseforge.com/minecraft/mc-mods/catalogue) – красивый список модов
 
+[**ChatLagRemover**](https://www.curseforge.com/minecraft/mc-mods/chatlagremover) – иногда при отправке сообщений в чате весь сервер знатно пролагивает. Больше не будет
+
+[**Chattix**](https://www.curseforge.com/minecraft/mc-mods/chattix) – красивый чат
+
 [**Citadel**](https://www.curseforge.com/minecraft/mc-mods/citadel)
 
 [**Cloth Config API**](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
@@ -68,8 +76,6 @@
 
 <Криэйт и множество дополнений к нему >
 
-[**Create**](https://www.curseforge.com/minecraft/mc-mods/create)
-
 [**Create Big Cannons**](https://www.curseforge.com/minecraft/mc-mods/create-big-cannons) – модульные орудия. Хотели собрать корабельную артиллерийскую батарею? Теперь можно
 
 [**Create Chunkloading**](https://www.curseforge.com/minecraft/mc-mods/create-chunkloading) – постоянная загрузка чанков
@@ -89,6 +95,8 @@
 [**Create Teleporters**](https://www.curseforge.com/minecraft/mc-mods/create-teleporters) – телепорты в криэйте
 
 [**Create Train Additions**](https://www.curseforge.com/minecraft/mc-mods/create-train-additions) – дополнения для поездов криэйта
+
+[**Create**](https://www.curseforge.com/minecraft/mc-mods/create)
 
 [**Create: Alloyed**](https://www.curseforge.com/minecraft/mc-mods/create-alloyed) – сплавы в криэйте
 
@@ -116,13 +124,15 @@
 
 [**Do a Barrel Roll**](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) – новая физика для элитр
 
+[**Double doors**](https://www.curseforge.com/minecraft/mc-mods/double-doors) – одинаковые двери, калитки и прочее стоящие рядом будут открываться-закрываться одновременно
+
 [**Double Slabs**](https://www.curseforge.com/minecraft/mc-mods/double-slabs) – сделать блок из двух разных полублоков
 
 [**Drink Beer Refill**](https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill) – любите пиво? Можете варить его сами прямо в игре!
 
-[**Dynamic Crosshair**](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair) – динамическая крестовина под разные ситуации и предметы, которая скрывается когда не нужна
-
 [**Dynamic Crosshair Compat**](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair-compat) – добавляет совместимость с другими модами
+
+[**Dynamic Crosshair**](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair) – динамическая крестовина под разные ситуации и предметы, которая скрывается когда не нужна
 
 [**Easier Sleeping**](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping) – контроль сколько процентов игроков должно спать чтобы ночь скипнулась
 
@@ -158,6 +168,8 @@
 
 [**FlickerFix**](https://www.curseforge.com/minecraft/mc-mods/flickerfix) – когда кончается действие ночного зрения – экран не мерцает, а постепенно темнеет
 
+[**Fluidlogged**](https://modrinth.com/mod/fluidlogged) – добавление совместимости для всех жидкостей чтобы они могли красиво заполнять не только стандартные блоки, но и полублоки например
+
 [**Forgiving Void**](https://www.curseforge.com/minecraft/mc-mods/forgiving-void) – упал в пустоту? Свалишься с неба
 
 [**GeckoLib**](https://www.curseforge.com/minecraft/mc-mods/geckolib)
@@ -166,15 +178,17 @@
 
 [**Incapacitated**](https://www.curseforge.com/minecraft/mc-mods/incapacitated) – умерли? Не беда, если рядом ваш товарищ, то он сможет помочь вам подняться и не погибнуть!
 
+[**Infinity Buttons**](https://modrinth.com/mod/infinitybuttons) – множество кнопок, некоторые даже со звуком
+
 [**Inventory Profiles Next**](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) – сортировка инвентаря и еще вагон приколов для него **же**
 
 [**Italian Delight**](https://www.curseforge.com/minecraft/mc-mods/italian-delights-add-on-for-farmers-delight) – дополнение с итальянской едой для Farmer’s Delight
 
 [**ItemPhysic**](https://www.curseforge.com/minecraft/mc-mods/itemphysic) – физика для итемов выброшенных из инвентаря/дропнутых с мобов/сундуков/etc
 
-[**Jade**](https://www.curseforge.com/minecraft/mc-mods/jade) – what the hell is it на стероидах
-
 [**Jade Addons**](https://www.curseforge.com/minecraft/mc-mods/jade-addons) – аддоны для Jade
+
+[**Jade**](https://www.curseforge.com/minecraft/mc-mods/jade) – what the hell is it на стероидах
 
 [**JER Integration**](https://www.curseforge.com/minecraft/mc-mods/jer-integration) – интеграции модов для JER
 
@@ -185,6 +199,8 @@
 [**Just Enough Items**](https://www.curseforge.com/minecraft/mc-mods/jei) – полный список всех вещей и рецепты
 
 [**Just Enough Resources**](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) – аддон для JEI для ресурсов
+
+[**Keymap**](https://modrinth.com/mod/keymap) – переработка экрана для настройки клавиш управления
 
 [**Kobolds**](https://www.curseforge.com/minecraft/mc-mods/kobolds) – подземная раса с новыми постройками
 
@@ -204,9 +220,9 @@
 
 <Коллекция декора от Macaw >
 
-[**Macaw 's Bridges**](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
-
 [**Macaw 's Bridges – BOP**](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty)
+
+[**Macaw 's Bridges**](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
 
 [**Macaw 's Doors**](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
 
@@ -222,17 +238,21 @@
 
 [**Macaw 's Paths and Pavings**](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
 
-[**Macaw 's Roofs**](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
-
 [**Macaw 's Roofs – BOP**](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-biomes-o-plenty)
+
+[**Macaw 's Roofs**](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
 
 [**Macaw 's Trapdoors**](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 
 [**Macaw 's Windows**](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 
-[**<Коллекция декора от Macaw />**](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+<Коллекция декора от Macaw />
 
 [**Magnesium/Rubidium Extras**](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) – допы для переработки движка
+
+[**Maintenance Mode**](https://modrinth.com/mod/maintenancemode) – если Админу надо будет что-то сделать на сервере без присутствия других игроков – теперь он сможет это сделать
+
+[**Memory Leak Fix**](https://modrinth.com/mod/memoryleakfix) – фикс утечек памяти, я даже знаю людей которым он может помочь (лишь бы ничего не испортил)
 
 [**MmmMmmMmmmmm**](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm) – кукла для битья (тестить дпс, например)
 
@@ -242,9 +262,9 @@
 
 [**Mouse Tweaks**](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) – твики для управления мышкой в инвентаре
 
-[**NetherPortalFix**](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) – фикс порталов в ад
-
 [**Nether 's Delight**](https://www.curseforge.com/minecraft/mc-mods/nethers-delight) – фермерство в аду
+
+[**NetherPortalFix**](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) – фикс порталов в ад
 
 [**NotEnoughAnimations Mod**](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) – анимации персонажа
 
@@ -252,11 +272,13 @@
 
 [**Obscure API**](https://www.curseforge.com/minecraft/mc-mods/obscure-api)
 
-[**Oculus**](https://www.curseforge.com/minecraft/mc-mods/oculus) – шейдеры
-
 [**Oculus Flywheel Compat**](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) – объединение шейдеров и криэйта (фпс будет страдать не так сильно)
 
+[**Oculus**](https://www.curseforge.com/minecraft/mc-mods/oculus) – шейдеры
+
 [**Overweight Farming**](https://www.curseforge.com/minecraft/mc-mods/overweight-farming) – для фермерства
+
+[**Permission Levels**](https://www.curseforge.com/minecraft/mc-mods/permission-levels) – уровни разрешений операторов, нужно на условное будущее в случае создания системы контроля разрешений
 
 [**Piglin Proliferation**](https://www.curseforge.com/minecraft/mc-mods/piglin-proliferation) – переработка пиглинов
 
@@ -274,9 +296,9 @@
 
 [**Refined Storage**](https://www.curseforge.com/minecraft/mc-mods/refined-storage) – сверхтехнологичное хранилище (да, вы можете получить электричество из кинетической энергии криэйта)
 
-[**Rubidium**](https://www.curseforge.com/minecraft/mc-mods/rubidium) – массовая переработка движка майна
-
 [**Rubidium Dynamic Lights**](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) – свет работает, когда держишь в руках светящийся предмет (факел например)
+
+[**Rubidium**](https://www.curseforge.com/minecraft/mc-mods/rubidium) – массовая переработка движка майна
 
 [**Saturn**](https://www.curseforge.com/minecraft/mc-mods/saturn) – оптимизация
 
@@ -286,11 +308,17 @@
 
 [**Sereneseasonfix**](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix) – фиксы для смены времен года
 
+[**Server Tab Info**](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) – новое меню на Tab, больше полезной информации вместо просто иконки качества коннекта
+
 [**Shutup Experimental Settings**](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) – удаление предупреждения о экспериментальных настройках
+
+[**Simple Flashlight Port**](https://www.curseforge.com/minecraft/mc-mods/simple-flashlight-port) – фонарик. Просто фонарик. Если бы вы знали как мне его не хватало вы бы расплакались
 
 [**Simple Planes**](https://www.curseforge.com/minecraft/mc-mods/simple-planes) – самолеты–вертолеты
 
 [**Simply Light**](https://www.curseforge.com/minecraft/mc-mods/simply-light) – лампы
+
+[**Simply Swords**](https://www.curseforge.com/minecraft/mc-mods/simply-swords) – расширяет арсенал оружием совместимым с Better Combat, так что теперь будет выбор из того чем наказывать супостатов
 
 [**Sleep Tight**](https://www.curseforge.com/minecraft/mc-mods/sleep-tight) – переработанная система сна, которая освежит и немного усложнит игру
 
@@ -313,6 +341,8 @@
 [**Submerged Explosions**](https://www.curseforge.com/minecraft/mc-mods/submerged-explosions) – взрывы разрушают блоки и под водой тоже
 
 [**Supplementaries**](https://www.curseforge.com/minecraft/mc-mods/supplementaries) – интерактивный декор
+
+[**Swashbucklers!**](https://www.curseforge.com/minecraft/mc-mods/swashbucklers) – вы хотели бороздить моря? Почувствовать себя пиратом? Теперь можете! Мод добавляет корабли и возможность сражаться друг с другом в море
 
 [**TerraBlender**](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 

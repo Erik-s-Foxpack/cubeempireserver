@@ -8,9 +8,13 @@
 
 [**Alex 's Mobs**](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) – расширение мобов в мире
 
+[**All Bark All Bite**](https://www.curseforge.com/minecraft/mc-mods/all-bark-all-bite) – настоящие собаки и многое что с ними связано
+
 [**Alternate Current**](https://www.curseforge.com/minecraft/mc-mods/alternate-current) – оптимизация редстоуна
 
 [**Ambient Sounds**](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) – звуки вокруг вас
+
+[**AntiGhost**]( https://www.curseforge.com/minecraft/mc-mods/antighost) – по нажатию кнопки (настроить нужно самому) запрашивает обновление положения блоков с сервера чтобы избавиться от «призраных» блоков
 
 [**AppleSkin**](https://www.curseforge.com/minecraft/mc-mods/appleskin) – QoL в интерфейсе еды
 
@@ -35,6 +39,8 @@
 [**Better Combat**](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus) – обновленная система анимаций боя и самой боёвки
 
 [**Better Logs**](https://www.curseforge.com/minecraft/mc-mods/better-logs) – декоративные закругленные бревна, вдруг вам захочется сделать что-то с круглыми бревнами а не квадратными
+
+[**Better Stats**](https://www.curseforge.com/minecraft/mc-mods/better-stats) – отображение вашей статистики в разделе меню паузы
 
 [**Better Third Person**](https://www.curseforge.com/minecraft/mc-mods/better-third-person) – улучшение камеры третьего вида
 
@@ -74,8 +80,6 @@
 
 [**CosmeticArmorReworked**](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) – косметические слоты для брони
 
-<Криэйт и множество дополнений к нему >
-
 [**Create Big Cannons**](https://www.curseforge.com/minecraft/mc-mods/create-big-cannons) – модульные орудия. Хотели собрать корабельную артиллерийскую батарею? Теперь можно
 
 [**Create Chunkloading**](https://www.curseforge.com/minecraft/mc-mods/create-chunkloading) – постоянная загрузка чанков
@@ -94,6 +98,8 @@
 
 [**Create Teleporters**](https://www.curseforge.com/minecraft/mc-mods/create-teleporters) – телепорты в криэйте
 
+[**Create Track Map**]( https://modrinth.com/mod/create-track-map) – карта путей и станций поездов Create
+
 [**Create Train Additions**](https://www.curseforge.com/minecraft/mc-mods/create-train-additions) – дополнения для поездов криэйта
 
 [**Create**](https://www.curseforge.com/minecraft/mc-mods/create)
@@ -101,6 +107,8 @@
 [**Create: Alloyed**](https://www.curseforge.com/minecraft/mc-mods/create-alloyed) – сплавы в криэйте
 
 [**Create: Armory**](https://www.curseforge.com/minecraft/mc-mods/create-armory) – огнестрельное оружие для криэйта
+
+[**Create: Broken Bad**](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad) – дополнение для Create, с особой, кхм, химией
 
 [**Create: Central Kitchen**](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen) – механики готовки в криэйте
 
@@ -112,8 +120,6 @@
 
 [**Create: Steam 'n Rails**](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) – и еще дополнение для поездов криэйта
 
-<Криэйт и множество дополнений к нему />
-
 [**CreativeCore**](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 
 [**Curios API**](https://www.curseforge.com/minecraft/mc-mods/curios) – доп слоты для итемов (например для элитр чтобы не занимать слот брони)
@@ -124,11 +130,9 @@
 
 [**Do a Barrel Roll**](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) – новая физика для элитр
 
-[**Double doors**](https://www.curseforge.com/minecraft/mc-mods/double-doors) – одинаковые двери, калитки и прочее стоящие рядом будут открываться-закрываться одновременно
-
-[**Double Slabs**](https://www.curseforge.com/minecraft/mc-mods/double-slabs) – сделать блок из двух разных полублоков
-
 [**Drink Beer Refill**](https://www.curseforge.com/minecraft/mc-mods/drink-beer-refill) – любите пиво? Можете варить его сами прямо в игре!
+
+[**Droplight**](https://www.curseforge.com/minecraft/mc-mods/droplight) – у редких итемов выпавших в мир будут лучи, показывающие где они лежат, на манер Borderlands
 
 [**Dynamic Crosshair Compat**](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair-compat) – добавляет совместимость с другими модами
 
@@ -166,6 +170,8 @@
 
 [**Ferrite Core**](https://www.curseforge.com/minecraft/mc-mods/ferritecore) – оптимизация памяти
 
+[**Fire Extinguisher and more - Stop the Fire**](https://modrinth.com/mod/fire-extinguisher) – пожар? Напалм? Зажигательные боеприпасы? Нет, это чек-лист, это описание того с чем вы сможете бороться с помощью этого мода
+
 [**FlickerFix**](https://www.curseforge.com/minecraft/mc-mods/flickerfix) – когда кончается действие ночного зрения – экран не мерцает, а постепенно темнеет
 
 [**Fluidlogged**](https://modrinth.com/mod/fluidlogged) – добавление совместимости для всех жидкостей чтобы они могли красиво заполнять не только стандартные блоки, но и полублоки например
@@ -176,6 +182,10 @@
 
 [**GoProne**](https://www.curseforge.com/minecraft/mc-mods/goprone) – лечь на пол и быть высотой в 1 блок
 
+[**Handcrafted**](https://modrinth.com/mod/handcrafted) – декор для дома
+
+[**Immersive Structures**](https://modrinth.com/mod/immersive-structures) – различные постройки в мире
+
 [**Incapacitated**](https://www.curseforge.com/minecraft/mc-mods/incapacitated) – умерли? Не беда, если рядом ваш товарищ, то он сможет помочь вам подняться и не погибнуть!
 
 [**Infinity Buttons**](https://modrinth.com/mod/infinitybuttons) – множество кнопок, некоторые даже со звуком
@@ -185,6 +195,8 @@
 [**Italian Delight**](https://www.curseforge.com/minecraft/mc-mods/italian-delights-add-on-for-farmers-delight) – дополнение с итальянской едой для Farmer’s Delight
 
 [**ItemPhysic**](https://www.curseforge.com/minecraft/mc-mods/itemphysic) – физика для итемов выброшенных из инвентаря/дропнутых с мобов/сундуков/etc
+
+[**ItemResistance**](https://modrinth.com/mod/itemresistance) – итемы больше не пропадут из-за взрывов
 
 [**Jade Addons**](https://www.curseforge.com/minecraft/mc-mods/jade-addons) – аддоны для Jade
 
@@ -218,8 +230,6 @@
 
 [**Login Protection**](https://www.curseforge.com/minecraft/mc-mods/login-protection) – пока вы грузитесь в мир вас не убьют
 
-<Коллекция декора от Macaw >
-
 [**Macaw 's Bridges – BOP**](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty)
 
 [**Macaw 's Bridges**](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
@@ -246,13 +256,15 @@
 
 [**Macaw 's Windows**](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 
-<Коллекция декора от Macaw />
-
 [**Magnesium/Rubidium Extras**](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) – допы для переработки движка
 
 [**Maintenance Mode**](https://modrinth.com/mod/maintenancemode) – если Админу надо будет что-то сделать на сервере без присутствия других игроков – теперь он сможет это сделать
 
+[**Meme In A Bottle**](https://modrinth.com/mod/meme-in-a-bottle) – мемы в бутылках. Буквально.
+
 [**Memory Leak Fix**](https://modrinth.com/mod/memoryleakfix) – фикс утечек памяти, я даже знаю людей которым он может помочь (лишь бы ничего не испортил)
+
+[**MineMention**](https://modrinth.com/mod/minemention) – тегать игроков внутри игры
 
 [**MmmMmmMmmmmm**](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm) – кукла для битья (тестить дпс, например)
 
@@ -277,6 +289,10 @@
 [**Oculus**](https://www.curseforge.com/minecraft/mc-mods/oculus) – шейдеры
 
 [**Overweight Farming**](https://www.curseforge.com/minecraft/mc-mods/overweight-farming) – для фермерства
+
+[**Paladin's Furniture Mod**](https://modrinth.com/mod/paladins-furniture) – декор для дома
+
+[**Patchouli**](https://www.curseforge.com/minecraft/mc-mods/patchouli) – на этом моде работают различные книги-вики для других модов
 
 [**Permission Levels**](https://www.curseforge.com/minecraft/mc-mods/permission-levels) – уровни разрешений операторов, нужно на условное будущее в случае создания системы контроля разрешений
 
@@ -349,6 +365,8 @@
 [**The Lost Castle**](https://www.curseforge.com/minecraft/mc-mods/the-lost-castle) – редкий огромный замок с множеством секретов
 
 [**Too Fast**](https://www.curseforge.com/minecraft/mc-mods/too-fast) – фикс для сервера
+
+[**Visual Workbench**](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) – итемы на выпадают с верстака сами и красиво отображаются на самом верстаке
 
 [**YDM 's Weapon Master**](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master) – ваше оружие будет отображаться на модельке персонажа
 

@@ -1,36 +1,36 @@
 ---
 name: Bug report
-about: Создайте баг-репорт чтобы помочь серверу!
+about: Create a bug report to help your server!
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-## Опишите баг
-Понятное и лаконичное описание бага.
-Сюда же добавьте информацию о том, какой мод мог вызвать баг, если таковая имеется.
+## Describe the bug
+Short, but full description of bug.
+Additionally, write info on what mod provoked this bug.
 
-## Как воспроизвести
-Шаги к воспроизведению бага:
-1. Пойти к '...'
-2. Нажать на '....'
-3. Прыгнуть в '....'
-4. Произошёл баг
+## Reproducing
+Steps to reproduce this bug:
+1. Walk to '...'
+2. Click the '....'
+3. Jump in '....'
+4. Bug happened!
 
-## Ожидаемое поведение
-Понятное и лаконичное описание того что должно было случиться.
+## Expected behaviour
+Short, but full description of what should've happened.
 
-## Скриншоты/видео
-Если возможно, добавьте сюда скриншоты и/или видео с багом.
-Не забудьте отметить или описать что конкретно подвержено девиантному поведению. Или кто.
+## Screenshots/videos
+If possible, attach screenshots and/or videos with bug captured on them here.
+Don't forget to specify what exactly is showing the deviant behaviour, Or who.
 
-## Информация об устройстве
- - Версия ОС: [e.g. MacOS 13.3, Windows 11 22H2]
- - Какой лаунчер: [e.g. License, Pirate]
- - Версия игры + модлоадер: [e.g. 1.19.2 + Forge]
- - Сервер на котором играете: [e.g. 1.16.5 "Городские приключения"]
- - Шейдеры: [e.g. Complimentary: Reimagined v2.0]
+## Hardware info
+ - OS version: [e.g. MacOS 13.3, Windows 11 22H2]
+ - КWhich launcher: [e.g. License, Custom]
+ - Gamer version + modloader: [e.g. 1.19.2 + Forge]
+ - Server on which you plat: [e.g. 1.12.2 "Minecraft 2: Electric boogaloo"]
+ - Shaders: [e.g. Complimentary: Reimagined v2.0]
 
-## Дополнительная информация
-Добавьте любую дополнительную информацию о баге сюда.
+## Additional info
+Add any additional info on bug here.

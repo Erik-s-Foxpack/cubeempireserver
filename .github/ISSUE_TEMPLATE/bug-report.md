@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Describe the bug
-Short, but full description of bug.
+Short, but full description of the bug.
 Additionally, write info on what mod provoked this bug.
 
 ## Reproducing
@@ -27,8 +27,8 @@ Don't forget to specify what exactly is showing the deviant behaviour, Or who.
 
 ## Hardware info
  - OS version: [e.g. MacOS 13.3, Windows 11 22H2]
- - КWhich launcher: [e.g. License, Custom]
- - Gamer version + modloader: [e.g. 1.19.2 + Forge]
+ - Which launcher: [e.g. License, Custom]
+ - Game version + modloader: [e.g. 1.19.2 + Forge]
  - Server on which you plat: [e.g. 1.12.2 "Minecraft 2: Electric boogaloo"]
  - Shaders: [e.g. Complimentary: Reimagined v2.0]
 

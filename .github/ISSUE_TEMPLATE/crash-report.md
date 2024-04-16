@@ -1,30 +1,34 @@
 ---
 name: Crash report
-about: Создайте краш-репорт чтобы помочь серверу!
+about: Create a crash report to help your server!
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-## Опишите ошибку
-Понятное и лаконичное описание ошибки.
+## Describe the error
+Short, but full description of the error.
 
-## Как воспроизвести
-Шаги к воспроизведению ошибки:
-1. Пойти к '...'
-2. Нажать на '....'
-3. Прыгнуть в '....'
-4. Произошла ошибка
+## Reproducing
+Steps to reproduce this error:
+1. Walk to '...'
+2. Click the '....'
+3. Jump in '....'
+4. Crash happened!
 
-## Файл краш-репорта
-Приложите самый новый файл crash-report из папки игры.
+## Expected behaviour
+Short, but full description of what should've happened.
 
-## Информация об устройстве:
- - Версия ОС: [e.g. MacOS 13.3, Windows 11 22H2]
- - Какой лаунчер: [e.g. License, Pirate]
- - Версия игры + модлоадер: [e.g. 1.19.2 + Forge]
- - Сервер на котором играете: [e.g. 1.16.5 "Городские приключения"]
+## Crash-report and log files
+Attach the newest crash-report.txt, latest.log and debug.log from the game folder files here.
 
-## Дополнительная информация
-Добавьте любую дополнительную информацию об ошибке сюда.
+## Hardware info
+ - OS version: [e.g. MacOS 13.3, Windows 11 22H2]
+ - Which launcher: [e.g. License, Custom]
+ - Game version + modloader: [e.g. 1.19.2 + Forge]
+ - Server on which you play: [e.g. 1.12.2 "Minecraft 2: Electric boogaloo"]
+ - Shaders: [e.g. Complimentary: Reimagined v2.0]
+
+## Additional info
+Add any additional info on errror here.
